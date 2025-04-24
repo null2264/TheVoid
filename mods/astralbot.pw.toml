@@ -1,0 +1,13 @@
+name = "AstralBot"
+filename = "astralbot-neoforge-1.21.1-1.5.5.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "a4d76354349bb91c82c6a5a2d9b0c8e49db889c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6171794
+project-id = 950775

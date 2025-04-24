@@ -1,0 +1,13 @@
+name = "Adorn (NeoForge/Forge)"
+filename = "Adorn-6.0.1+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a40293ff17ed3af4a0298eef7fa1d44c954f762"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6398744
+project-id = 438784
