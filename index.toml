@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cobblegen.json5"
+hash = "f0f38cc57e34805e6f3d4b57727e6a109b29dbc116b14df5e68b481b24173961"
+
+[[files]]
 file = "mods/adorn-for-forge.pw.toml"
 hash = "e0fa94c89d5b697a1dbe4c3a9808036967931b03568072ace32a00f36a3bbc91"
 metafile = true
