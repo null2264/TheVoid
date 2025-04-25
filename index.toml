@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblegen.pw.toml"
-hash = "90ecbba35a624db9213111b175a5cb6dcc6e2e7e2fe17b8e4ef17d0d14643c26"
+hash = "a190ac3bbbbef3afd4d69c5691f24b89db37448dee90b516dacd8d96bbfe206d"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "732230fce4618b7b3f399e48a9fa632731ebbf4226e39cbcdac06586be15dd5f"
+hash = "f3ae4c6cea3288a0c0d1c6f5c1a18992f45c38559908e84c774c9f49ad91b74e"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-reactors.pw.toml"
-hash = "07e315f17ed098a0a8aa73a6dde712376053f338f00ba4cb8601f49d09cdbbfa"
+hash = "3341040299f6b843e583b5920df2c7141765af140f8833524a0c36991b687f9b"
 metafile = true
 
 [[files]]
@@ -137,5 +137,5 @@ metafile = true
 
 [[files]]
 file = "mods/zerocore.pw.toml"
-hash = "c29236bb2a63c8a4a886b83d1809c0fb0d240348b4855025030fc2281fd6adb2"
+hash = "074a1dac679d1c3d5fe27e985357db6d09a92ae2822efbd9bd62dc73003c1257"
 metafile = true
