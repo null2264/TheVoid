@@ -39,6 +39,11 @@ hash = "f32e6386b6d4e8806a3c83791eb47f56392ff74ca7c1e16ae68a4de89169c813"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
+metafile = true
+
+[[files]]
 file = "mods/cobblegen.pw.toml"
 hash = "a190ac3bbbbef3afd4d69c5691f24b89db37448dee90b516dacd8d96bbfe206d"
 metafile = true
@@ -66,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/ender-io.pw.toml"
 hash = "d3e545cc11931ff0d433a320fd6c1c4e8733715b5eabd7cf1ef987c23516e677"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "f9842b5568bfef16d8e6f4bbbea38747cd2e11f3e5069930620a824c931bb40e"
 metafile = true
 
 [[files]]
@@ -121,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "20084e6c096135548dbceb71e6adb7ed2cdaa66dc4e3e2e3bc2055091e109bbe"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "c53101abeff70bbb6d5784991133efb61867d34491762bc13a20f215105b6a83"
 metafile = true
 
 [[files]]
