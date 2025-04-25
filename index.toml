@@ -45,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblegen.pw.toml"
-hash = "a190ac3bbbbef3afd4d69c5691f24b89db37448dee90b516dacd8d96bbfe206d"
+hash = "89d2a51e2f6523b0eb8da45eb3f67e955c0c5fbf67f7ac775354230f58561598"
 metafile = true
 
 [[files]]
