@@ -134,6 +134,26 @@ hash = "b210b54498abff891f524a0ce32b7b81bfc88043604065bd4ece9e71c36427f4"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "d36bf5e3e9df58a163f670342dd427a756ad6d9ffb3725450762c642305ae5ab"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "39a94227ec9b939a7cd4fc7163a0289ed4a69a100a27a88fa055d09d40c76804"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "b30de48053ee55333f170f6d55a7531f4dad64593739f697b8b3ab7209ff810e"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "b836898f745edd67e3fd7ff30d9b11f042798ce55e3b2b571663d12eaf2405e1"
+metafile = true
+
+[[files]]
 file = "mods/touhou-little-maid.pw.toml"
 hash = "abf5567d43c0347e7b76ab0df1bc51dd3755c9eac9d8f04560a39394f98dfc27"
 metafile = true
