@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ae2-common.toml"
+hash = "58ca2eb8ffc2912316753f0005ac13314aca7ecee151421302bfe662028a241c"
+
+[[files]]
 file = "config/cobblegen.json5"
 hash = "f0f38cc57e34805e6f3d4b57727e6a109b29dbc116b14df5e68b481b24173961"
 
