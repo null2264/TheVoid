@@ -64,6 +64,11 @@ hash = "cde09b142a7998957dcf3d1effec07b9563c520e168fc1f63e7750fb7e6f80bb"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "6cd932ae5f59b1119208b90d4e985a3f0e543afbb6c8e8f5a948bbcd9453a12d"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "f3ae4c6cea3288a0c0d1c6f5c1a18992f45c38559908e84c774c9f49ad91b74e"
 metafile = true
