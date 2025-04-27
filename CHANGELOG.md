@@ -37,7 +37,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Initial release
 
-[unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/2025.0.2...HEAD
-[2025.0.2]: https://github.com/olivierlacan/keep-a-changelog/compare/2025.0.1...2025.0.2
-[2025.0.1]: https://github.com/olivierlacan/keep-a-changelog/compare/1.0.0...2025.0.1
-[1.0.0]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/1.0.0
+[unreleased]: https://github.com/null2264/TheVoid/compare/2025.0.2...HEAD
+[2025.0.2]: https://github.com/null2264/TheVoid/compare/2025.0.1...2025.0.2
+[2025.0.1]: https://github.com/null2264/TheVoid/compare/1.0.0...2025.0.1
+[1.0.0]: https://github.com/null2264/TheVoid/releases/tag/1.0.0
