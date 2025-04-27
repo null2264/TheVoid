@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "bcb2ae04c66db622024065342d5ea2b160d78bdaa081daf811bd48b4e53efc8d"
+hash = "24fa1cd582b4d9bbe5cc951c6f0c14f0ab3429a89cc374b65bc3100cdda6a758"
 
 [[files]]
 file = "config/ae2-common.toml"
@@ -11,6 +11,10 @@ hash = "58ca2eb8ffc2912316753f0005ac13314aca7ecee151421302bfe662028a241c"
 [[files]]
 file = "config/cobblegen.json5"
 hash = "f0f38cc57e34805e6f3d4b57727e6a109b29dbc116b14df5e68b481b24173961"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "79b31873f72b6e40dc05991d0deb8ebc9ec63f390febf69e4d38572b63f2f85e"
 
 [[files]]
 file = "mods/adorn-for-forge.pw.toml"

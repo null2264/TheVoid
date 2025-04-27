@@ -1,12 +1,12 @@
 name = "The Void"
 author = "null2264"
-version = "2025.0.2"
+version = "2025.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "13cbce20f318f73c1107c1511cb408e80c90ee0f84761a37685a8c02d7666ff8"
+hash = "974878accfe63a7b645067dbd1e551f5822e2fa7158a3dd947ceabb2105a3623"
 
 [versions]
 minecraft = "1.21.1"
