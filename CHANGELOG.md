@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Add Skin Restorer
+- Add AI Improvements
 
 ## [2025.0.2] - 2025-04-25
 

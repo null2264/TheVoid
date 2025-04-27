@@ -14,6 +14,11 @@ hash = "e0fa94c89d5b697a1dbe4c3a9808036967931b03568072ace32a00f36a3bbc91"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5820ee677da3df8d38b89fb2490be39e600b4eb1cf864a344f3cdf59e1879d25"
 metafile = true
