@@ -1,0 +1,13 @@
+name = "BedSheet"
+filename = "bedsheet-neoforge-0.2.1+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4eb993f79e60c5c461e3967e14bb05e863a72d3d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6425898
+project-id = 1193851

@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add LambDynamicLights
 - Add Lithium
 - Add Krypton Foxified
+- Add BedSheet (Carpet mod for NeoForge)
 
 ## [2025.0.2] - 2025-04-25
 
