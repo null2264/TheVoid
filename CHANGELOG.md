@@ -11,6 +11,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Add Skin Restorer
 - Add AI Improvements
+- Add Dynamic Crosshair
+- Add Default Options
+- Add Crafting Tweaks
+- Add Better Advancements
+- Add Better Third Person
+- Add Dismount Entity
+- Add Dynamic FPS
+- Add Falling Leaves
+- Add LambDynamicLights
+- Add Lithium
+- Add Krypton Foxified
 
 ## [2025.0.2] - 2025-04-25
 

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.md"
+hash = "08ccabf71bc4170a9da79c333af4352dca5f95625f9391ff8cb7174ea34d3b9a"
+
+[[files]]
 file = "config/ae2-common.toml"
 hash = "58ca2eb8ffc2912316753f0005ac13314aca7ecee151421302bfe662028a241c"
 
@@ -44,6 +48,21 @@ hash = "f32e6386b6d4e8806a3c83791eb47f56392ff74ca7c1e16ae68a4de89169c813"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "93235e74dc3574eb48c46b029ebd3e77936f024aa10da088998ebfb352cba04b"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "bb2700ce31fc7cd121ecf07f106302303ee366b7573b77bbdd97eee955233cda"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "f95bf48ab8dae109dfdf5aa3f2a3926dbec38510706df33a61a53d86bdd20fc7"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
@@ -54,8 +73,18 @@ hash = "89d2a51e2f6523b0eb8da45eb3f67e955c0c5fbf67f7ac775354230f58561598"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "d3c143c5b518d2a57888cf1916e06bdb0f50e83b8341bf65885cdc769886647f"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "616036c38fafbcaf00c0720d947ec39f571d885a014f0c81b5eeeb4193784e0e"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "141bec32c90144fdf64617a3a7c997cabb062b6f6690f21dd70b6a83034d11fd"
 metafile = true
 
 [[files]]
@@ -71,6 +100,26 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "6cd932ae5f59b1119208b90d4e985a3f0e543afbb6c8e8f5a948bbcd9453a12d"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "470b0d6784bece922b1664b34eb022cdcfdffb6c36247389eb32a8154d20057f"
+metafile = true
+
+[[files]]
+file = "mods/dismount-entity.pw.toml"
+hash = "169f13ab9cd35ab2bfa4be8cfbb70309e997c98fcb9958d196af99121e679cf9"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-crosshair.pw.toml"
+hash = "2981c60b01c5f4d84dc80cb61b4110bda6226a89272ba677d505958a1c502a0c"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "a2baf591f66e24e5dee1793270d7fbe84229f6e56915584cf2a2747b227972b2"
 metafile = true
 
 [[files]]
@@ -91,6 +140,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "3341040299f6b843e583b5920df2c7141765af140f8833524a0c36991b687f9b"
+metafile = true
+
+[[files]]
+file = "mods/falling-leaves-forge.pw.toml"
+hash = "0df579e1b483cf7342b51b0367b69263ff37a36691f86c3f0bc5abcd6fbe31f8"
 metafile = true
 
 [[files]]
@@ -136,6 +190,21 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "fe64d3dd484296b6a6b36a7e7c96d6f17ce21bc274cf33abd223a8b0587befb1"
+metafile = true
+
+[[files]]
+file = "mods/krypton-foxified.pw.toml"
+hash = "98ecccb7f29a52b5ad6d5788cc26b5c0b400962f4a0330063fc9590bcf9d7c46"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights-unofficial-neoforge.pw.toml"
+hash = "16356cbaf58f8e41cc4fb9a68d6afe49caacd69068758054ee4d4af4cd1b1782"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "908cbf89e774b114d1dc3aef4806c9d2d782cfd314be001718bb690af9b074a8"
 metafile = true
 
 [[files]]
