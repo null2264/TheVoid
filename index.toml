@@ -154,6 +154,11 @@ hash = "b210b54498abff891f524a0ce32b7b81bfc88043604065bd4ece9e71c36427f4"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "f173948ac2446d310a1b3d9911ed6ede05c78eeb7ffe09564186cc2842d6ef3b"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "d36bf5e3e9df58a163f670342dd427a756ad6d9ffb3725450762c642305ae5ab"
 metafile = true
