@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "24fa1cd582b4d9bbe5cc951c6f0c14f0ab3429a89cc374b65bc3100cdda6a758"
+hash = "61ae78c9e0995bd313bf2c72e1ecee1cfb152cbd241369050bb8ef00ee0f6b52"
 
 [[files]]
 file = "config/ae2-common.toml"
@@ -207,6 +207,11 @@ hash = "98ecccb7f29a52b5ad6d5788cc26b5c0b400962f4a0330063fc9590bcf9d7c46"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "b2e4e9c22fa6dbdedf14fefc64ae45ab6354ff00246e8c950d720ea9198eb75e"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights-unofficial-neoforge.pw.toml"
 hash = "7ebf8abd124da1f61a93bb5539da33def30dd86e1d48ad907d3d8b25f76e75e2"
 metafile = true
@@ -229,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "9dfeb4b87e376aacf809236ade964c2e37943aaff4d7a5774442f7cca52b76de"
 metafile = true
 
 [[files]]
