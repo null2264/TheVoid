@@ -10,6 +10,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Add KubeJS
 
+### Removed
+- Remove Yes Steve Model from serverpack  
+  Got rejected because of it
+
 ## [2025.0.3] - 2025-04-27
 
 ### Added

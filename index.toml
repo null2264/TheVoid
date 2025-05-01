@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "61ae78c9e0995bd313bf2c72e1ecee1cfb152cbd241369050bb8ef00ee0f6b52"
+hash = "d10228a9f4d45fd9c221edfa915a4a3286c7b5557ef618e84e2d3ee1b100d0c7"
 
 [[files]]
 file = "config/ae2-common.toml"
@@ -284,11 +284,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "6efd0841c48e4e5e58b95fdc3038ee8ace0f97d787d7e57fe6d2e2ab78503fb2"
-metafile = true
-
-[[files]]
-file = "mods/yes-steve-model.pw.toml"
-hash = "e110de9356bb78d10051edf26539ac79be7dfe6b24644c7d14c47931fe665b4a"
 metafile = true
 
 [[files]]
